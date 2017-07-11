@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Smart Gujarat</string>
+
+    <string-array name="names">
+
+        <item>Garbage and Cleanliness</item>
+        <item>Mosquitoes and Mosquito born Diseases</item>
+        <item>Roads and Footpath</item>
+        <item>Water Supply</item>
+        <item>Drainage</item>
+        <item>Street Light</item>
+        <item>Dead Animals</item>
+        <item>Public Toilet</item>
+        <item>Food Safety Act</item>
+        <item>Hospital and Dispensaries</item>
+        <item>Door to Door Garbage Collection</item>
+        <item>Stray Animals</item>
+        <item>Others</item>
+
+
+    </string-array>
+
+
+    <string-array name="amd">
+
+        <item>Name: Amdavad Ni Gufa
+              Address: Opposite L.D Engineering, Gujarat University campus, CEPT campus,
+                       Ahmedabad, Gujarat 380009 </item>
+
+        <item>Name: Archer Art Gallery
+              Address: Archer House, Opp. Gujarat Tennis Academy, Gurukul Road,
+                      Ahmedabad, Gujarat 380052</item>
+
+        <item>Name: Balvatika
+              Address: Chacha Nehru Bal Vatika Kankaria,
+                       Ahmedabad, Gujarat 380008</item>
+
+        <item>Name: Drive In Cinema
+              Address: Drive In Road,Opposite Doordarshan Kendra
+                       Ahmedabad - 380052</item>
+
+        <item>Name: Iskcon Temple
+              Address:Satellite Road, Sarkhej Ghandhinagar Highway Crossing,
+                      Ahmedabad, Gujarat 380059</item>
+
+        <item>Name: Jaldhara Water World
+              Address: No.200, Punit Nagar Marg, Balvatika, Near Kankaria Gate No.5,
+                       Ahmedabad, Gujarat 380028</item>
+
+         <item>Name: Jama Mosque
+               Address: Manek Chowk, Gandhi Road, Ahmedabad, Gujarat 380001</item>
+
+         <item>Name: Jhulta Minara
+               Address: Nr. Kalupur Railway Station Road, Sakar Bazzar, Kalupur,
+                       Ahmedabad, Gujarat 380002</item>
+
+         <item>Name: Kankaria Lake
+               Address: Himmatnagar Village, Maninagar Area,
+                       Ahmedabad, Gujarat 380002, India</item>
+
+
+         <item>Name: Lalbhai Dalpatbhai Museum
+               Address: L.D. Institute of Indology Campus, Nr. Gujarat University,
+                        Opp. L.D. Engineering Hostel, Navarangpura,
+                        Gujarat University Clock Tower, Ahmedabad, Gujarat 380009</item>
+
+         <item>Name: Maniars WonderLand
+              Address:Sarkhej Sanand Highway, Behind Kiran Motors , Sarkhej,
+                      Ahmedabad, Gujarat 382210</item>
+
+         <item>Name: Nagina Wadi
+              Address:Nr.Kankaria Lake, Front Gate No.6, Ahmedabad, Gujarat 380002</item>
+
+         <item>Name: Rani No Hajiro
+              Address:Gandhi Rd, Manek Chowk, Danapidth, Khadia, Ahmedabad, Gujarat 380001</item>
+
+         <item>Name: Sabarmati Riverfront
+              Address:Sabarmati Riverfront Walkway W, Rabarivas, Usmanpura,
+                      Ahmedabad, Gujarat 380013</item>
+
+         <item>Name: Sabarmati Ashram
+              Address:Gandhi Smarak Sangrahalaya, Hridaya Kunj, Old Wadaj,
+                      Ahmedabad, Gujarat 380027</item>
+
+        <item>Name: Sardar Patel Stadium
+              Address:Motera, Ahmedabad, Gujarat 380005</item>
+
+        <item>Name: Science City
+              Address: SP Ring Rd,Hebatpur, Ahmedabad, Gujarat 380060</item>
+
+        <item>Name: Sidi Saiyyed Mosque
+              Address: Salapose Road, Opposite Electricity House, Lal Darwaja,
+                       Ahmedabad, Gujarat 380001</item>
+
+         <item>Name: Teen Darvaja
+               Address: Bhadra, Ahmedabad, Gujarat 380001</item>
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

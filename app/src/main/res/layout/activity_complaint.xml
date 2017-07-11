@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="login1.myapplication.complaint"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/l1">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       android:background="@drawable/shape"
+       android:id="@+id/l2">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Complaint Registration"
+           android:textColor="@color/black"
+           android:background="@color/blee"
+           android:layout_marginBottom="70dp"
+           android:gravity="center"
+           android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/bstatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Status"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/shape1"/>
+
+        <Button
+            android:id="@+id/bcomplain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register Complain"
+            android:background="@drawable/shape1"/>
+
+   </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>
