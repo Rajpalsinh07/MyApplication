@@ -4,7 +4,7 @@ package login1.myapplication;
  * Created by Moksha on 3/21/2017.
  */
 
-public class cmodel {
+public class cmodel  {
 
     private String complaint_category,city,location;
 
